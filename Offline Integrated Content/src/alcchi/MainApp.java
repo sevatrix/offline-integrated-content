@@ -90,9 +90,9 @@ public class MainApp extends Application {
 	//gandako
 	//okkkaaayyyy
         //Umasa
-<<<<<<< HEAD
+
     //icommit na ito
-=======
+    //bogs
     //lumos
->>>>>>> origin/master
+    
 }
